@@ -1,0 +1,4 @@
+punkt
+vader_lexicon
+stopwords
+averaged_perceptron_tagger
