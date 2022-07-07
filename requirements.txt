@@ -1,0 +1,9 @@
+mljar-mercury
+spacytextblob
+numpy
+pandas
+matplotlib
+spacy
+nltk
+wordcloud
+textblob
